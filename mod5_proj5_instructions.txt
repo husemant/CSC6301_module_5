@@ -1,0 +1,17 @@
+Run Program from Terminal Instructions
+-------------------------------------
+Javadoc command:
+javadoc *.java -d doc -author -version -use
+
+Open Javadocs command (mac):
+open doc/index.html
+
+Compile program command:
+javac BubbleSort.java SortedLinkedListMaker.java SortedStackMaker.java
+
+Run Program command:
+java SortedStackMaker
+
+You will prompted to enter a list of integers into the terminal. Sample input:
+2 45 37 21 31 50 29 22 67 88 56
+
